@@ -86,7 +86,7 @@ class Game {
                 break;
 
             case 1: 
-            this.newText ="Primero te daré algunos consejos: \nRecuerda que los colores oscuros van bien en la noche. Acentuar las caderas se logra enfatizando la cintura. \nTen muy en cuenta el clima para las prendas. Y las líneas dependiendo de su dirección pueden hacer que alguien se vea \n¡más delgado o con más peso!. \nEso es todo por ahora, veamos como lo haces...¡Buena suerte! ";
+            this.newText ="Primeroo te daré algunos consejos: \nRecuerda que los colores oscuros van bien en la noche. Acentuar las caderas se logra enfatizando la cintura. \nTen muy en cuenta el clima para las prendas. Y las líneas dependiendo de su dirección pueden hacer que alguien se vea \n¡más delgado o con más peso!. \nEso es todo por ahora, veamos como lo haces...¡Buena suerte! ";
 
             if(app.mouseX > 76 && app.mouseX < 230 && app.mouseY > 516 && app.mouseY < 556){
                 this.currentText= this.newText;
